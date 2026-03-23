@@ -1,3 +1,6 @@
+'''Hallow Rectangle'''
+
+
 for i in range(5):
     for j in range(5):
         if i==0 or i==4 or j==0 or j==4:
@@ -5,3 +8,13 @@ for i in range(5):
         else:
             print(" ",end=" ")
     print()
+
+
+
+'''output:
+* * * * *
+*       *
+*       *
+*       *
+* * * * *
+'''
