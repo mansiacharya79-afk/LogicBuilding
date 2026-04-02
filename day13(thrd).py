@@ -1,5 +1,7 @@
 '''Program to Print Integers in Words:
 Write a program that converts each digit of an integer entered by the user into its corresponding word representation.'''
+
+
 num=input("Enter a number:")
 for i in num:
     if i=='0':
