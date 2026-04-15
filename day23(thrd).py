@@ -1,6 +1,7 @@
 '''Reverse an Array
 Reverse the order of elements in the given array.
 '''
+
 arr = list(map(int, input("Enter elements: ").split()))
 arr = arr[::-1]
 print("Reversed Array:", arr)
