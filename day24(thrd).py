@@ -12,7 +12,7 @@ for i in range(len(arr)):
 print("Output:", arr)
 
 
-'''Output:
+'''Output:s
 Enter elements : 0 1 0 3 12
 Output: [1, 3, 12, 0, 0]
 '''
