@@ -14,4 +14,4 @@ print("Result:", power(base, exponent))
 '''output
 Enter base: 2
 Enter exponent: 3
-Result: 8
+Result: 8'''
